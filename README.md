@@ -1,43 +1,91 @@
-# ISL-Python
+# 📚 An Introduction to Statistical Learning — Python Solutions
 
+This repository contains **Python solutions** to the exercises and labs from the book  
+**"Introduction to Statistical Learning, Second Edition"**  
+by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
+---
 ![ISLP Cover](https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/8b373fbe-d1b4-4351-b803-0d3cd5bba1b0/ISLP_cover.png?format=750w)
 
 
-This repository contains the solutions to the exercises and labs from the book "Introduction to Statistical Learning Second Edition" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. The solutions are implemented in Python.
+## 📖 About the Book
 
-## About the Book
-"Introduction to Statistical Learning" provides an introduction to statistical learning methods and their applications. It covers a wide range of topics in statistical learning, including linear regression, classification methods, resampling methods, tree-based methods, and more. The book presents both theoretical concepts and practical examples to help readers understand the principles and techniques of statistical learning.
+*"Introduction to Statistical Learning"* introduces key statistical learning methods and their practical applications.  
+Topics include:
+- 📈 Linear Regression
+- 🔢 Classification Methods
+- 🔄 Resampling Methods
+- 🌳 Tree-Based Methods
+- ...and more!
 
-## Repository Structure
-The repository is organized as follows:
+Both **theory** and **hands-on examples** are presented to help readers master statistical learning.
 
-- **[Exercises](https://github.com/ogulcancicek/ISLR-Python/tree/main/Exercises)**: This directory contains exercises from the book. Each chapter has its own directory named "Chapter X," where X represents the chapter number. Inside each chapter directory, you will find Jupyter Notebook files (e.g., `Exercise_X_Y.ipynb`) corresponding to specific exercises.
-- **[Notebooks](https://github.com/ogulcancicek/ISLR-Python/tree/main/Notebooks)**: This directory contains the lab notebooks from the book. Each lab notebook is named "Lab_X.ipynb," where X represents the lab number.
-- **[Data](https://github.com/ogulcancicek/ISLR-Python/tree/main/data)**: This directory contains the datasets used in the exercises and labs. The data files are provided in various formats, such as CSV or Excel, depending on the requirements of each exercise or lab.
-- **[Figures](https://github.com/ogulcancicek/ISLR-Python/tree/main/figures)**: This directory contains images and visualizations generated during the analysis of the datasets and the implementation of statistical learning methods. These images are included in the solutions and can help illustrate the concepts discussed.
+---
 
-## Getting Started
-If you want to explore the solutions in this repository, follow these steps:
+## 🗺️ Repository Structure
 
-1. Clone the repository to your local machine using the following command:
+```
+An-Introduction-to-Statistical-Learning-Python/
+│
+├── Exercises/    📁 Exercise solutions, organized by chapter ("Chapter X")
+├── Notebooks/    📁 Lab notebooks ("Lab_X.ipynb")
+├── data/         📁 Datasets for exercises and labs
+├── figures/      📁 Images & visualizations from notebooks
+├── LICENSE       📜 MIT License
+└── README.md     📘 Project documentation
+```
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/mdzaheerjk/An-Introduction-to-Statistical-Learning-Python.git
+   cd An-Introduction-to-Statistical-Learning-Python
    ```
-   git clone https://github.com/ogulcancicek/ISLR-Python.git
-   ```
 
-2. Navigate to the cloned repository:
-   ```
-   cd ISLR-Python
-   ```
+2. **Explore Exercise Solutions**
+   - Go to the `Exercises/` folder.
+   - Each chapter has its own directory (`Chapter X/`).
+   - Open Jupyter Notebooks (e.g., `Exercise_X_Y.ipynb`) for solutions.
 
-3. The `Exercises` directory contains exercise solutions organized by chapter. Each chapter directory contains Jupyter Notebook files (e.g., `Exercise_X_Y.ipynb`) corresponding to specific exercises. Open the desired file to view the solution implementation.
+3. **Explore Lab Notebooks**
+   - Find labs in the `Notebooks/` directory (e.g., `Lab_X.ipynb`).
+   - Open with Jupyter Notebook or JupyterLab.
 
-4. The `Notebooks` directory contains lab notebooks from the book. Open the desired notebook (e.g., `Lab_X.ipynb`) to view the lab content and implementation.
+4. **Datasets & Figures**
+   - Datasets are in `data/` (formats: CSV, Excel, etc.).
+   - Visualizations and images are in `figures/`.
 
-5. The `Data` directory contains the datasets used in the exercises and labs. You may need to download the necessary data files and place them in the appropriate directories when running the code.
+---
 
-6. Feel free to explore the code and experiment with it. You can modify the solutions or create your implementations based on the provided exercises and labs.
+## 💡 Usage Notes
 
-## Disclaimer
-The solutions in this repository are intended for educational purposes. They should be used as a reference to aid in understanding the concepts presented.
+- Feel free to **experiment** and modify solutions.
+- Datasets may need to be downloaded or placed in the appropriate directories.
+- All solutions are intended for **educational purposes** and as a reference.
 
+---
+
+## ⚠️ Disclaimer
+
+Solutions are provided for learning and reference only.  
+Use them to deepen your understanding of statistical learning concepts.
+
+---
+
+## 👤 Author
+
+- [mdzaheerjk](https://github.com/mdzaheerjk)
+
+---
+
+## 📄 License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+> **Emoji Key:**  
+> 📁 = Folder  📘 = Docs  📜 = License  📈 = Data/Analysis
