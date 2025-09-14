@@ -1,6 +1,8 @@
-# ISLR-Python
+# ISL-Python
 
-![ISLR-Python](https://github.com/ogulcancicek/ISLR-Python/blob/main/figures/book_cover.png)
+
+![ISLP Cover](https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/8b373fbe-d1b4-4351-b803-0d3cd5bba1b0/ISLP_cover.png?format=750w)
+
 
 This repository contains the solutions to the exercises and labs from the book "Introduction to Statistical Learning Second Edition" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. The solutions are implemented in Python.
 
@@ -38,3 +40,4 @@ If you want to explore the solutions in this repository, follow these steps:
 
 ## Disclaimer
 The solutions in this repository are intended for educational purposes. They should be used as a reference to aid in understanding the concepts presented.
+
